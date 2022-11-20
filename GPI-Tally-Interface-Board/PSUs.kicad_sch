@@ -1,0 +1,16 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid c1e37085-739f-4cd4-b41b-d28177801d1e)
+
+  (paper "A4")
+
+  (title_block
+    (title "Compute Module 4 IO Board - PSUs")
+    (company "(c) Raspberry Pi Trading 2020")
+    (comment 1 "www.raspberrypi.org")
+  )
+
+  (lib_symbols
+  )
+
+)

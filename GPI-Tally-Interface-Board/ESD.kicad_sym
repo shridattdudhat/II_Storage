@@ -1,0 +1,193 @@
+(kicad_symbol_lib (version 20201005) (generator kicad_symbol_editor)
+  (symbol "ESD:SM24CANA" (in_bom yes) (on_board yes)
+    (property "Reference" "D" (id 0) (at -5.715 6.985 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SM24CANA" (id 1) (at 8.255 -0.635 90)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23" (id 2) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (id 3) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (symbol "SM24CANA_0_1"
+      (rectangle (start -6.35 5.715) (end 6.35 -5.08)
+        (stroke (width 0.001)) (fill (type background))
+      )
+      (polyline
+        (pts
+          (xy -3.175 3.175)
+          (xy -4.445 1.905)
+          (xy -1.905 1.905)
+          (xy -3.175 3.175)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.175 -0.635)
+          (xy -1.905 0.635)
+          (xy -4.445 0.635)
+          (xy -3.175 -0.635)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.175 3.175)
+          (xy -4.445 3.175)
+          (xy -5.08 2.54)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.175 3.175)
+          (xy -1.905 3.175)
+          (xy -1.27 3.81)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.175 -0.635)
+          (xy -4.445 -0.635)
+          (xy -5.08 -1.27)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.175 -0.635)
+          (xy -1.905 -0.635)
+          (xy -1.27 0)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.175 1.905)
+          (xy -3.175 0.635)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.175 3.175)
+          (xy -3.175 3.81)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.175 -0.635)
+          (xy -3.175 -1.27)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 3.175)
+          (xy 1.905 1.905)
+          (xy 4.445 1.905)
+          (xy 3.175 3.175)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 -0.635)
+          (xy 4.445 0.635)
+          (xy 1.905 0.635)
+          (xy 3.175 -0.635)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 3.175)
+          (xy 1.905 3.175)
+          (xy 1.27 2.54)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 3.175)
+          (xy 4.445 3.175)
+          (xy 5.08 3.81)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 -0.635)
+          (xy 1.905 -0.635)
+          (xy 1.27 -1.27)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 -0.635)
+          (xy 4.445 -0.635)
+          (xy 5.08 0)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 1.905)
+          (xy 3.175 0.635)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 3.175)
+          (xy 3.175 3.81)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 -0.635)
+          (xy 3.175 -1.27)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.175 -1.27)
+          (xy 3.175 -1.905)
+          (xy -3.175 -1.905)
+          (xy -3.175 -1.27)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -1.905)
+          (xy 0 -2.54)
+        )
+        (stroke (width 0.0006)) (fill (type none))
+      )
+    )
+    (symbol "SM24CANA_1_1"
+      (pin passive line (at 3.175 8.255 270) (length 2.54)
+        (name "1" (effects (font (size 1.27 1.27))))
+        (number "1" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at -3.175 8.255 270) (length 2.54)
+        (name "2" (effects (font (size 1.27 1.27))))
+        (number "2" (effects (font (size 1.27 1.27))))
+      )
+      (pin passive line (at 0 -7.62 90) (length 2.54)
+        (name "3" (effects (font (size 1.27 1.27))))
+        (number "3" (effects (font (size 1.27 1.27))))
+      )
+    )
+  )
+)

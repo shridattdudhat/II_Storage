@@ -1,0 +1,17 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 048b3446-a71c-4791-b66b-89f123402497)
+
+  (paper "A4")
+
+  (title_block
+    (title "Compute Module 4 IO Board - PCIe")
+    (rev "1")
+    (company "(c) Raspberry Pi Trading 2020")
+    (comment 1 "www.raspberrypi.org")
+  )
+
+  (lib_symbols
+  )
+
+)

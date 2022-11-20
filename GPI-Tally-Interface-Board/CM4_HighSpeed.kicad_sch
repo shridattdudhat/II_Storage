@@ -1,0 +1,17 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 182f9ee5-45ac-4f46-8c88-9a934355b2f7)
+
+  (paper "A4")
+
+  (title_block
+    (title "Compute Module 4 IO Board - CM4 - Highspeed")
+    (rev "1")
+    (company "(c) Raspberry Pi Trading 2020")
+    (comment 1 "www.raspberrypi.org")
+  )
+
+  (lib_symbols
+  )
+
+)
